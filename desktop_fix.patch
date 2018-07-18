@@ -1,0 +1,14 @@
+diff -ruN orig/default.desktop new/default.desktop
+--- orig/default.desktop	2017-10-25 05:30:49.000000000 -0600
++++ new/default.desktop	2018-07-18 13:56:39.062761940 -0600
+@@ -1,8 +1,8 @@
+ [Desktop Entry]
+ Type=Application
+ Name=AnimationMaker
+-Exec=usr/bin/AnimationMaker
+-Icon=default
++Exec=/usr/bin/AnimationMaker
++Icon=/usr/share/icons/hicolor/default.svg
+ Comment=AnimationMaker
+ Terminal=true
+ Categories=Graphics;
