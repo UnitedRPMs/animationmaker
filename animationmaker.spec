@@ -14,6 +14,7 @@ Patch:		libpath.patch
 Patch1:		desktop_fix.patch
 BuildRequires:	qt5-devel 
 Recommends:	xdg-utils
+Requires:	ffmpeg
 
 %description
 AnimationMaker is a software designed to help you to quickly build presentation
