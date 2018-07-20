@@ -5,7 +5,7 @@
 Name:		animationmaker
 Summary:	Create animated presentations and export them to a video or xml file
 License:	GPLv3
-URL:		https://github.com/athomasm/delaycut
+URL:		https://github.com/Artanidos/AnimationMaker/
 Version:	1.7
 Release:	1%{dist}
 Group:		Applications/Multimedia
